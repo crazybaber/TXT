@@ -1,0 +1,4 @@
+Name - Ruslan Fursa
+Age - 35 years
+Pets - One cat - "Crab"
+Expected salary - 800
