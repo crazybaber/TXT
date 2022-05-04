@@ -2,6 +2,7 @@ ID
 Title
 Severity/Priority
 Environment
+Description
 Steps to reproduce
 Expected result
 Actual result
